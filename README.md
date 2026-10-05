@@ -1,4 +1,12 @@
-# Parallel Computing — Task I
+# Parallel Computing
+
+This repository contains attempts at Task I and Task II from the WebClub NITK
+Systems & Security SIG Parallel Computing recruitment task.
+
+- [Task I: four-thread array-sum comparison](#task-i--array-sum-comparison)
+- [Task II: lock-free SPSC ring buffer](task2/README.md)
+
+## Task I — Array sum comparison
 
 This is an attempt at Task I from the WebClub NITK Systems & Security SIG
 Parallel Computing recruitment task.

@@ -4,6 +4,6 @@ RUN apk add --no-cache build-base
 
 WORKDIR /work
 COPY . .
-RUN make
+RUN make && make -C task2
 
 CMD ["./parallel_sum", "10000000", "5"]

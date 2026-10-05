@@ -1,2 +1,4 @@
 parallel_sum
+spsc_ring
+task2/spsc_ring
 *.o
